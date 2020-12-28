@@ -7,7 +7,7 @@
 ```
 npm install --save vue-full-calendar
 ```
-Or for Vue 1.x users
+Or for Vue 1.x user(s)
 ```
 npm install --save vue-full-calendar@0.0.3
 ```
